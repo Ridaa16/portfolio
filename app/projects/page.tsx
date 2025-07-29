@@ -26,7 +26,7 @@ const projects = [
     title: 'Social Media Dashboard',
     description: 'Analytics dashboard for social media metrics with data visualization.',
     tags: ['React', 'Chart.js', 'Node.js'],
-    link: '#',
+    link: 'https://social-media-dashboard-tan-eta.vercel.app/',
     imageUrl: './images/social.png'
   },
   {
