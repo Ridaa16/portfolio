@@ -167,7 +167,7 @@ export default function Home() {
                 title: 'Task Management App',
                 description: 'CRUD application for task management with drag-and-drop functionality and user accounts.',
                 tags: ['React', 'Express', 'MongoDB'],
-                link: '#',
+                link: 'https://task-manager-chi-murex.vercel.app/login',
                 imageUrl: './images/task management app.png'
               }
             ].map((project, index) => (

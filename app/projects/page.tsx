@@ -19,7 +19,7 @@ const projects = [
     title: 'Task Management App',
     description: 'CRUD application for managing tasks with drag-and-drop functionality and user accounts.',
     tags: ['React', 'Express', 'MongoDB'],
-    link: '#',
+    link: 'https://task-manager-chi-murex.vercel.app/login',
     imageUrl: './images/task management app.png'
   },
   {
